@@ -41,13 +41,13 @@ input::-webkit-input-placeholder { color: #fff; }
 
 @font-face {
     font-family: "Gilroy-Regular";
-    src: url(/fonts/Gilroy-Regular.ttf)  format("truetype");
+    src: url(../fonts/Gilroy-Regular.ttf)  format("truetype");
     font-style: normal;
     font-weight: normal;
-}
-@font-face {
+ }
+ @font-face {
     font-family: "Noto-Regular";
-    src: url(/fonts/NotoSerif.ttf) format("truetype");
+    src: url(../fonts/NotoSerif.ttf) format("truetype");
     font-style: normal;
     font-weight: normal;
 }
